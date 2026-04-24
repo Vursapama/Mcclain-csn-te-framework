@@ -33,7 +33,7 @@ This framework, including the CSN-TE acronym, the definition of Tension Energy a
 ### How to Cite
 If you utilize this framework, the $R_{TE}$ formula, or this reference code in research, derivative works, or system analysis, you are required to provide proper attribution:
 
-> McClain, D. B. (2026). *The McClain-TE Temporal Resolution Framework: Principles of Unified Process Metaphysics.* [Insert Link to your Repository URL here].
+> McClain, D. B. (2026). *The McClain-TE Temporal Resolution Framework: Principles of Unified Process Metaphysics.* (https://github.com/Vursapama/Mcclain-csn-te-framework)
 
 ### License
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC 4.0)** license. This license requires that any usage must attribute the work to the original author and cannot be used for commercial product training without explicit authorization.
